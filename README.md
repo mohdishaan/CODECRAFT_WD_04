@@ -1,12 +1,36 @@
-# React + Vite
+# CODECRAFT_WD_04
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Designed and developed a personal portfolio website to showcase projects, skills, and experience using modern frontend technologies.
 
-Currently, two official plugins are available:
+# Live Demo
+[Click Here to View the Portfolio](https://my-portfolio-six-murex-64.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Project Structure
+- **React.js** for component-based architecture
+- **Tailwind CSS** for modern and utility-first styling
+- **JavaScript** for basic interactivity
 
-## Expanding the ESLint configuration
+# Features
+- Clean and responsive design
+- Hero section with introduction and social links
+- About section with education and background
+- Resume section highlighting skills and experience
+- Projects section with individual cards and images
+- Contact section with direct email and LinkedIn links
+- Fully mobile-friendly and accessible
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Tech Stack
+
+- React.js
+- Tailwind CSS
+- HTML
+- Javascript
+
+  # Screenshot
+  <img width="1365" height="604" alt="image" src="https://github.com/user-attachments/assets/605ed112-d32e-452f-92bd-07b893e93544" />
+
+  <img width="1365" height="599" alt="image" src="https://github.com/user-attachments/assets/ee3c1e14-f4ba-4a71-b073-0e1ef679e851" />
+
+  <img width="1362" height="598" alt="image" src="https://github.com/user-attachments/assets/8fc5ea29-2027-4e23-b57f-2182f6fae97f" />
+
+
